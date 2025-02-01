@@ -1,5 +1,0 @@
-requests
-solana
-solders
-spl-token
-python-dotenv
